@@ -1,3 +1,7 @@
+/*
+ * Developer : Prakriti Chintalapoodi - c.prakriti@gmail.com 
+*/
+
 #include "sift.h"
 
 #define NUM_OCTAVES 4
