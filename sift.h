@@ -1,3 +1,7 @@
+/*
+ * Developer : Prakriti Chintalapoodi - c.prakriti@gmail.com 
+*/
+
 #ifndef SIFT_H
 #define SIFT_H
 
