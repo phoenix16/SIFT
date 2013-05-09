@@ -1,5 +1,6 @@
 /*
  * Developer : Prakriti Chintalapoodi - c.prakriti@gmail.com 
+ Code Reference : SIFT Implementation by Jun Liu 
 */
 
 #include "sift.h"
