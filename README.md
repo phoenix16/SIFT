@@ -1,4 +1,4 @@
 SIFT
 ====
 
-Implementation of Scale Invariant Feature Transform (SIFT) in MATLAB and OpenCV
+OpenCV and MATLAB implementation of David Lowe's Scale Invariant Feature Transform (SIFT)
