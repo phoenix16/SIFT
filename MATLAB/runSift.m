@@ -1,3 +1,7 @@
+%/*
+% * Developer : Prakriti Chintalapoodi - c.prakriti@gmail.com 
+%*/
+
 % Code reference: SIFT Matlab tutorial by Gonzalo Vaca-Castano
 
 clear

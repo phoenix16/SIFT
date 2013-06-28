@@ -1,3 +1,7 @@
+%/*
+% * Developer : Prakriti Chintalapoodi - c.prakriti@gmail.com 
+%*/
+
 function extrema = DoG_extrema(top, current, down)
 % Function to find the extrema keypoints given 3 matrices
 % A pixel is a keypoint if it is the extremum of its 26 neighbors (8 in current, and 9 each in top and bottom)

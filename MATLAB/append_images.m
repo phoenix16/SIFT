@@ -1,3 +1,7 @@
+%/*
+% * Developer : Prakriti Chintalapoodi - c.prakriti@gmail.com 
+%*/
+
 function appended = append_images(mode, varargin)
 % Function to append images Left-Right or Top-Bottom
 %       mode = 'LR' or 'TB' for left-right or top-bottom concatenation
