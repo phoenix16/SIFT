@@ -1,12 +1,8 @@
-%/*
-% * Developer : Prakriti Chintalapoodi - c.prakriti@gmail.com 
-%*/
+%
+%  Developer : Prakriti Chintalapoodi - c.prakriti@gmail.com 
+%
 
 % Code reference: SIFT Matlab tutorial by Gonzalo Vaca-Castano
-
-clear
-clc
-close all
 
 source = imread('venice.jpg');
 input = imread('to_be_matched.jpg');
@@ -104,7 +100,6 @@ end
 toc
 disp('    Found Keypoints = DoG extrema');
 
-
 %%
 tic
 %=========================================================================%
@@ -173,11 +168,5 @@ for oct = 1:num_octaves
     end
 end
 
-clear A B C D
 toc
 disp('    Assigned Orientations');
-
-
-
-
-
